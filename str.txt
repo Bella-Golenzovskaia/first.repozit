@@ -1,0 +1,5 @@
+BrandA 1500 1.5
+BrandB 2000 1.2
+BrandC 1800 1.0
+BrandD 2200 1.7
+BrandE 1900 1.4
